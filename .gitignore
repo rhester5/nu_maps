@@ -1,3 +1,8 @@
+# vu_maps
+/cache
+*.html
+vu_maps/main.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
