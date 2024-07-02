@@ -1,4 +1,4 @@
-# vu_maps
+# nu_maps
 Use OpenRouteService API, Google Maps, and Shapely to generate commute time maps for the intersection of unions of locations
 
 ## Installation
